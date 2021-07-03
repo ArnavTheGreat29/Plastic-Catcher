@@ -49,7 +49,7 @@ function preload(){
   dot = loadImage("Images/Background/dot.png")
 
   
-backgroundImg= loadImage("Images/Background/Background2.jpg")
+backgroundImg= loadImage("Images/Background/background2.jpg")
 gameOverSound = loadSound("Sounds/Game Over.mp3") 
 plasticCatchSound = loadSound("Sounds/correct.mp3") 
 soundTrack = loadSound("Sounds/Soundtrack.mp3")
